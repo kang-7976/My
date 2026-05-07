@@ -1,6 +1,6 @@
-public class Hello {
+public class kangxueshuo {
     public static void main(String[] args) {
-        for (int i = 0; i < 5; i++) {
+        while(true) {
             System.out.println("你好");
         }
     }
